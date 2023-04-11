@@ -1,0 +1,6 @@
+{
+    "image":"mcr.microsoft.com/devcontainers/universal:2",
+    "remoteEnv": {
+        "OpenAPIKey": "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"
+    }
+}

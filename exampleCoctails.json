@@ -1,0 +1,131 @@
+[
+    {
+        "name": "Hot Toddy",
+        "ingredients": [
+            {
+                "name": "whiskey",
+                "amount": "2 oz"
+            },
+            {
+                "name": "honey",
+                "amount": "1 tbsp"
+            },
+            {
+                "name": "fresh lemon juice",
+                "amount": "1/2 oz"
+            },
+            {
+                "name": "hot water",
+                "amount": "fill mug"
+            },
+            {
+                "name": "cinnamon stick",
+                "amount": "1"
+            },
+            {
+                "name": "lemon slice",
+                "amount": "1"
+            }
+        ]
+    },
+    {
+        "name": "Irish Coffee",
+        "ingredients": [
+            {
+                "name": "coffee",
+                "amount": "1 cup"
+            },
+            {
+                "name": "Irish whiskey",
+                "amount": "1 oz"
+            },
+            {
+                "name": "brown sugar",
+                "amount": "1 tsp"
+            },
+            {
+                "name": "whipped cream",
+                "amount": "to taste"
+            }
+        ]
+    },
+    {
+        "name": "Dark and Stormy",
+        "ingredients": [
+            {
+                "name": "dark rum",
+                "amount": "2 oz"
+            },
+            {
+                "name": "ginger beer",
+                "amount": "4 oz"
+            },
+            {
+                "name": "fresh lime juice",
+                "amount": "squeeze"
+            },
+            {
+                "name": "ice",
+                "amount": "to fill glass"
+            }
+        ]
+    },
+    {
+        "name": "Moscow Mule",
+        "ingredients": [
+            {
+                "name": "vodka",
+                "amount": "2 oz"
+            },
+            {
+                "name": "ginger beer",
+                "amount": "4 oz"
+            },
+            {
+                "name": "fresh lime juice",
+                "amount": "squeeze"
+            },
+            {
+                "name": "ice",
+                "amount": "to fill glass"
+            },
+            {
+                "name": "lime wedge",
+                "amount": "1"
+            }
+        ]
+    },
+    {
+        "name": "Hot Buttered Rum",
+        "ingredients": [
+            {
+                "name": "dark rum",
+                "amount": "2 oz"
+            },
+            {
+                "name": "unsalted butter",
+                "amount": "1 tbsp"
+            },
+            {
+                "name": "brown sugar",
+                "amount": "1 tsp"
+            },
+            {
+                "name": "cinnamon",
+                "amount": "pinch"
+            },
+            {
+                "name": "nutmeg",
+                "amount": "pinch"
+            },
+            {
+                "name": "hot water",
+                "amount": "fill mug"
+            },
+            {
+                "name": "cinnamon stick",
+                "amount": "1"
+            }
+        ]
+    }
+]
