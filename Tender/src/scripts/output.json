@@ -1,0 +1,35 @@
+
+
+{
+  "Mojito": {
+    "Instructions": [
+      "Muddle mint in a glass.",
+      "Add rum, lime juice, simple syrup, and club soda.",
+      "Stir and garnish with a lime wedge and a sprig of mint."
+    ],
+    "Ingredients": [
+      "2 oz white rum",
+      "1/2 lime, juiced",
+      "1 tsp simple syrup",
+      "4-5 mint leaves",
+      "Club soda",
+      "Lime wedge and sprig of mint for garnish"
+    ],
+    "Why": "The light and refreshing flavors of a mojito make it a great cocktail for sunny weather. The mint and lime provide a bright flavor and the rum helps to take the edge off stress."
+  },
+  "Pina Colada": {
+    "Instructions": [
+      "Combine rum, pineapple juice, coconut cream, and ice in a blender.",
+      "Blend until smooth.",
+      "Pour into a glass and garnish with a pineapple wedge and a cherry."
+    ],
+    "Ingredients": [
+      "2 oz white rum",
+      "1/2 cup pineapple juice",
+      "2 tbsp coconut cream",
+      "4-5 ice cubes",
+      "Pineapple wedge and cherry for garnish"
+    ],
+    "Why": "The pina colada is a classic tropical cocktail that is perfect for sunny weather. The combination of rum, pineapple, and coconut provides a sweet and creamy flavor that is sure to help you relax and de-stress."
+  }
+}
