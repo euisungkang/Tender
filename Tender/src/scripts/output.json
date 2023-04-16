@@ -1,35 +1,39 @@
 
 
 {
-  "Mojito": {
-    "Instructions": [
-      "Muddle mint in a glass.",
-      "Add rum, lime juice, simple syrup, and club soda.",
-      "Stir and garnish with a lime wedge and a sprig of mint."
-    ],
-    "Ingredients": [
-      "2 oz white rum",
-      "1/2 lime, juiced",
-      "1 tsp simple syrup",
-      "4-5 mint leaves",
-      "Club soda",
-      "Lime wedge and sprig of mint for garnish"
-    ],
-    "Why": "The light and refreshing flavors of a mojito make it a great cocktail for sunny weather. The mint and lime provide a bright flavor and the rum helps to take the edge off stress."
-  },
-  "Pina Colada": {
-    "Instructions": [
-      "Combine rum, pineapple juice, coconut cream, and ice in a blender.",
-      "Blend until smooth.",
-      "Pour into a glass and garnish with a pineapple wedge and a cherry."
-    ],
-    "Ingredients": [
-      "2 oz white rum",
-      "1/2 cup pineapple juice",
-      "2 tbsp coconut cream",
-      "4-5 ice cubes",
-      "Pineapple wedge and cherry for garnish"
-    ],
-    "Why": "The pina colada is a classic tropical cocktail that is perfect for sunny weather. The combination of rum, pineapple, and coconut provides a sweet and creamy flavor that is sure to help you relax and de-stress."
-  }
+    "Hot Toddy": {
+        "Steps": [
+            "Fill a mug or heat-proof glass with 8 ounces of hot water.",
+            "Add 2 ounces of whiskey.",
+            "Put 1 tablespoon of honey in the mug.",
+            "Add 2 tablespoons of freshly-squeezed lemon juice.",
+            "Stir until the honey is dissolved.",
+            "Garnish with a cinnamon stick or a lemon slice."
+        ],
+        "Ingredients": [
+            "8 ounces of hot water",
+            "2 ounces of whiskey",
+            "1 tablespoon of honey",
+            "2 tablespoons of freshly-squeezed lemon juice",
+            "Cinnamon stick or lemon slice (optional)"
+        ],
+        "Reason": "The Hot Toddy is the perfect drink for a foggy, sad day. Its warm ingredients will help you feel comforted and its combination of whiskey, honey, and lemon is sure to lift your spirits."
+    },
+    "Irish Coffee": {
+        "Steps": [
+            "Fill a mug or heat-proof glass with 8 ounces of hot coffee.",
+            "Add 1.5 ounces of Irish whiskey.",
+            "Put 1 tablespoon of brown sugar in the mug.",
+            "Add 1 teaspoon of freshly-whipped cream on top.",
+            "Garnish with a sprinkle of nutmeg."
+        ],
+        "Ingredients": [
+            "8 ounces of hot coffee",
+            "1.5 ounces of Irish whiskey",
+            "1 tablespoon of brown sugar",
+            "1 teaspoon of freshly-whipped cream",
+            "Sprinkle of nutmeg (optional)"
+        ],
+        "Reason": "Irish Coffee is a great drink for foggy and sad days. Its combination of coffee, whiskey, and sugar will help to wake you up and its creaminess will make you feel cozy and comforted."
+    }
 }

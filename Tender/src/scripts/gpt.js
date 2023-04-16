@@ -23,8 +23,6 @@ async function generateCocktails(weather, mood) {
     })
 }
 
-//generateCocktails(rainy, sad)
-
 module.exports = {
     generateCocktails : generateCocktails
 }

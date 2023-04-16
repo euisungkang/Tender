@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=SUIT:wght@800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=ONE+Mobile+OTF:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-one-mobile-otf: "ONE Mobile OTF";
+  --font-suit: SUIT;
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --color-white: #fff;
+
+  /* border radiuses */
+  --br-11xs: 2px;
+  --br-3xs: 10px;
+}

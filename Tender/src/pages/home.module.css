@@ -1,0 +1,261 @@
+.mainWhiskeyIcon {
+    position: relative;
+    width: 463px;
+    height: 463px;
+    flex-shrink: 0;
+    object-fit: cover;
+    display: none;
+  }
+  .mainWineIcon {
+    display: none;
+  }
+  .mainSojuIcon {
+    position: relative;
+    width: 463px;
+    height: 463px;
+    flex-shrink: 0;
+    object-fit: cover;
+  }
+  .glasses {
+    position: absolute;
+    top: 34px;
+    left: -45px;
+    width: 463px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .text4,
+  .text5,
+  .text6 {
+    position: absolute;
+    top: 9.5px;
+    left: 121px;
+    font-size: var(--font-size-base);
+    font-weight: 800;
+    font-family: var(--font-suit);
+    color: var(--color-white);
+    text-align: center;
+    display: none;
+  }
+  .text4,
+  .text5 {
+    left: 134px;
+  }
+  .text4 {
+    left: 96px;
+  }
+  .text3 {
+    left: 94px;
+    display: none;
+  }
+  .text1,
+  .text2,
+  .text3 {
+    position: absolute;
+    top: 9.5px;
+    font-size: var(--font-size-base);
+    font-weight: 800;
+    font-family: var(--font-suit);
+    color: var(--color-white);
+    text-align: center;
+  }
+  .text2 {
+    left: 81px;
+    display: none;
+  }
+  .text1 {
+    left: 117px;
+  }
+  .howsFeeling {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: #3600f0;
+    position: absolute;
+    top: 477px;
+    left: 45px;
+    border-radius: 999px;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
+    width: 303px;
+    height: 40px;
+    overflow: hidden;
+  }
+  .text {
+    position: relative;
+    font-weight: 800;
+  }
+  .buttonRound {
+    position: absolute;
+    top: calc(50% + 149px);
+    left: calc(50% - 176.5px);
+    border-radius: var(--br-3xs);
+    background: linear-gradient(101.05deg, #0d003a, #020251);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
+    width: 353px;
+    height: 40px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    padding: 5px 10px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  .hearIcon {
+    top: 14px;
+    left: 13px;
+    width: 14px;
+    height: 13px;
+    object-fit: cover;
+  }
+  .bacIcon,
+  .hearIcon,
+  .text7 {
+    position: absolute;
+  }
+  .text7 {
+    top: 11px;
+    left: 37px;
+    font-size: var(--font-size-sm);
+    font-weight: 800;
+    font-family: var(--font-suit);
+    color: var(--color-white);
+    text-align: left;
+    display: flex;
+    align-items: center;
+    width: 90px;
+    height: 17px;
+  }
+  .bacIcon {
+    top: 13px;
+    left: 14px;
+    width: 12px;
+    height: 14px;
+    object-fit: cover;
+    display: none;
+  }
+  .buttonRect {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    top: 635px;
+    left: 207px;
+    border-radius: var(--br-3xs);
+    background: linear-gradient(101.05deg, #0d003a, #020251);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
+    width: 166px;
+    height: 40px;
+    overflow: hidden;
+  }
+  .bacIcon1,
+  .hearIcon1 {
+    position: absolute;
+    object-fit: cover;
+  }
+  .hearIcon1 {
+    top: 14px;
+    left: 13px;
+    width: 14px;
+    height: 13px;
+    display: none;
+  }
+  .bacIcon1 {
+    top: 13px;
+    left: 14px;
+    width: 12px;
+    height: 14px;
+  }
+  .buttonRect1 {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    top: 695px;
+    left: 207px;
+    border-radius: var(--br-3xs);
+    background: linear-gradient(101.05deg, #0d003a, #020251);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
+    width: 166px;
+    height: 40px;
+    overflow: hidden;
+  }
+  .iconRect,
+  .iconStrapeSmall,
+  .iconWine {
+    position: relative;
+    border-radius: var(--br-11xs);
+    flex-shrink: 0;
+  }
+  .iconRect {
+    background-color: var(--color-white);
+    width: 17px;
+    height: 22px;
+  }
+  .iconStrapeSmall,
+  .iconWine {
+    width: 16px;
+    height: 13px;
+  }
+  .iconWine {
+    width: 12px;
+    height: 32px;
+  }
+  .deco {
+    position: absolute;
+    top: 543px;
+    left: 291px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 6px;
+  }
+  .mix,
+  .search2Icon {
+    position: relative;
+  }
+  .search2Icon {
+    width: 12px;
+    height: 12px;
+    flex-shrink: 0;
+    object-fit: cover;
+  }
+  .serachBar {
+    position: absolute;
+    height: 5.52%;
+    top: 0;
+    bottom: 94.48%;
+    left: 20px;
+    width: 177px;
+    display: flex;
+    flex-direction: row;
+    padding: 0 2px 0 12px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 12px;
+    text-align: left;
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.6);
+    font-family: var(--font-one-mobile-otf);
+  }
+  .main {
+    position: relative;
+    width: 100%;
+    height: 852px;
+    background-image: url("../components/background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    text-align: center;
+    font-size: var(--font-size-base);
+    color: var(--color-white);
+    font-family: var(--font-suit);
+  }
+  
