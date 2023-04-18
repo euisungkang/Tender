@@ -11,9 +11,9 @@ import {
 } from '@ionic/react';
 import { happyOutline, bookOutline, homeOutline } from 'ionicons/icons'
 import { IonReactRouter } from '@ionic/react-router';
-import Home from './pages/Home';
+import Home from './pages/Home/Home';
 import Catalog from './pages/Catalog';
-import Mood from './pages/Home';
+//import Mood from './pages/Home';
 
 /* Core CSS required for Ionic components to work properly */
 import '@ionic/react/css/core.css';
@@ -43,8 +43,8 @@ const App: React.FC = () => (
       <IonRouterOutlet>
         <Route exact path = "/home" component = { Home } />
         <Route exact path = "/catalog" component = { Catalog } />
-        <Route exact path = "/mood" component = { Mood } />
-        <Redirect exact from = "/" to = "/home" />
+        {/*<Route exact path = "/mood" component = { Mood } />*/}
+        <Redirect exact from = "/" to = "/home" /> 
       </IonRouterOutlet>
 {/*
         <IonTabs>

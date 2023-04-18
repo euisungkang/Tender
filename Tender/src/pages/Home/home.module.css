@@ -1,0 +1,88 @@
+
+.searchDiv {
+  flex: 1;
+}
+.glassesDiv {
+  flex: 7;
+  flex-direction: column;
+}
+.catalogDiv {
+  flex: 2;
+  display: flex;
+  flex-direction: column;
+}
+.altDiv {
+  flex-direction: column;
+  display: flex;
+  justify-content: start;
+  align-items: flex-end;
+  flex: 4;
+}
+
+.searchBar {
+  position: absolute;
+  box-sizing: border-box;
+  --color: transparent;
+  --placeholder-color: grey;
+  font-family: var(--font-one-mobile-otf);
+}
+
+.moodButton {
+  --background: #3600f0;
+  --size: small;
+  align-self: center;
+  width: 70%;
+  --expand: block;
+}
+
+.deco {
+  width: 100%;
+  margin: 0;
+  align-items: start;
+  display: flex;
+  
+}
+.child {
+  margin: 0;
+  display: flex;
+  width: 7vw;
+  height: 7vw;
+  flex-grow: 1;
+}
+
+.catalogButtonWrapper {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+}
+
+.catalogButton {
+  margin-top: 0;
+  --expand: block;
+  width: 90%;
+  --background: linear-gradient(101.05deg, #0d003a, #020251);
+}
+
+.favButton {
+  --expand: block;
+  width: 45%;
+  margin-right: 1em;
+  --background: linear-gradient(101.05deg, #0d003a, #020251);
+}
+
+.recButton {
+  --expand: block;
+  width: 45%;
+  margin-right: 1em;
+  --background: linear-gradient(101.05deg, #0d003a, #020251);
+}
+
+.buttonText {
+  font-size: var(--font-size-sm);
+  font-weight: 800;
+  font-family: var(--font-suit);
+  color: white;
+  display: flex;
+  align-items: center;
+}
